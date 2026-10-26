@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSWebAPI", "AWSWebAPI.csproj", "{A0DC2370-2189-4EA4-AEF9-9D31CA74C58D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DC2370-2189-4EA4-AEF9-9D31CA74C58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DC2370-2189-4EA4-AEF9-9D31CA74C58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DC2370-2189-4EA4-AEF9-9D31CA74C58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DC2370-2189-4EA4-AEF9-9D31CA74C58D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAEA1312-01AF-4AF0-B240-1C494A7247C1}
+	EndGlobalSection
+EndGlobal
